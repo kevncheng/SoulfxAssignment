@@ -1,0 +1,19 @@
+.divContainer {
+    background-color: lightgray;
+    margin: 5px;
+    height: 200px;
+    width: 150px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    flex: 1;
+}
+
+
+.iconStyle {
+    font-size: 40px;
+    padding: 5px 0 20px 0;
+}
